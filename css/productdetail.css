@@ -1,0 +1,11 @@
+.list-col-two{
+    column-count: 2;
+}
+.price{
+    font-style: normal;
+}
+.form-row{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
